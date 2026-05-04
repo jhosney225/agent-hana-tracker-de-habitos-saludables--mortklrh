@@ -1,0 +1,6 @@
+{
+  "name": "agent-hana-tracker-de-habitos-saludables--mortklrh",
+  "version": "1.0.0",
+  "description": "Proyecto de Hana [Gen21]: tracker de habitos saludables con estadisticas",
+  "main": "index.js"
+}
